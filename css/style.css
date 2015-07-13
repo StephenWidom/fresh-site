@@ -1,0 +1,4 @@
+/* GENERIC STYLES */
+body{font-family:'Open Sans',sans-serif;}
+p:last-child,ul:last-child,ol:last-child{margin-bottom:0;}
+.none{text-decoration:none;color:inherit;}
